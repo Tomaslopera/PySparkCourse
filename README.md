@@ -14,7 +14,7 @@ El proyecto combina trabajo práctico en **Databricks** y **Visual Studio Code**
 - Limpieza y preparación de datos.  
 - Ejemplos de consultas SQL sobre Spark.  
 
-![Databricks Catalog](Databricks Catalog.png)
+![Databricks Catalog](Databricks%20Catalog.png)
 
 ### 2. Preparación y exploración de datos
 - Manejo de valores nulos y duplicados.  
